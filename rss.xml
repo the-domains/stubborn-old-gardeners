@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Stubborn Old Gardeners]]></title>
         <description><![CDATA[Stubborn Old Gardeners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stubborn-old-gardeners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 23:24:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 Nov 2015 23:26:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stubborn-old-gardeners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our equipment is simple, and so our our methods.</p>]]></description>
+            <link>https://thegrid.ai/stubborn-old-gardeners/2b328f2f-5f9f-4805-89c0-a57944f9943c/index.html</link>
+            <guid isPermaLink="false">2b328f2f-5f9f-4805-89c0-a57944f9943c</guid>
+            <pubDate>Fri, 20 Nov 2015 23:26:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4149e36-72d1-4d6e-b0b9-ced33c85fa68.JPG">]]></description>
-            <link>undefinedde26a3e4-db78-41d8-b3bd-fc00a4c82765/index.html</link>
+            <link>https://thegrid.ai/stubborn-old-gardeners/de26a3e4-db78-41d8-b3bd-fc00a4c82765/index.html</link>
             <guid isPermaLink="false">de26a3e4-db78-41d8-b3bd-fc00a4c82765</guid>
             <pubDate>Fri, 20 Nov 2015 23:23:26 GMT</pubDate>
         </item>
